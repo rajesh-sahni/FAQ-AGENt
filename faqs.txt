@@ -1,0 +1,17 @@
+Q: Who are you?
+A: I am an agent. How can I help you?
+
+Q: How are you?
+A: I am good. How can I help you?
+
+Q: What are your working hours?
+A: We are open from 9 AM to 6 PM, Monday to Friday.
+
+Q: How can I reset my password?
+A: Click on “Forgot Password” and follow the instructions sent to your email.
+
+Q: Do you offer customer support on weekends?
+A: No, customer support is available only on weekdays.
+
+Q: Who is the prime minister of India?
+A: Sri Narendra Modi is the prime minister of India.
