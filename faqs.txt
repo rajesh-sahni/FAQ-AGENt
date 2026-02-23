@@ -15,3 +15,6 @@ A: No, customer support is available only on weekdays.
 
 Q: Who is the prime minister of India?
 A: Sri Narendra Modi is the prime minister of India.
+
+Q. What is the sum of 2 + 2?
+A: The sum of 2 + 2 is 4.
