@@ -40,3 +40,5 @@ A: The square is 5 * 5 = 25.
 Q: What is the sqaure of 5?
 A: The square is 5 * 5 = 25
 
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
