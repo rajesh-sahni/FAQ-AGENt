@@ -30,3 +30,6 @@ A: Patna is the capital of Bihar.
 
 Q: What is the capital of Rajsthan?
 A: Jaipur is the capital of Rajsthan.
+
+Q: What is the product of 2 * 2?
+A: The product is 4.
