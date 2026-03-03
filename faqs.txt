@@ -36,3 +36,6 @@ A: The product is 4.
 
 Q: What is the square of 5?
 A: The square is 5 * 5 = 25.
+
+Q: What is the currency of India?
+A: Rupees is the currency of India.
